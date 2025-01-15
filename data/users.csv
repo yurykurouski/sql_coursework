@@ -1,0 +1,11 @@
+phone_number,curr_balance,user_name,client_name
+1234567890,100.50,User1,Client A
+2345678901,200.75,User2,Client B
+3456789012,150.00,User3,Client C
+4567890123,300.25,User4,Client D
+5678901234,50.00,User5,Client E
+6789012345,75.50,User6,Client F
+7890123456,120.00,User7,Client G
+8901234567,90.00,User8,Client H
+9012345678,60.00,User9,Client I
+0123456789,110.00,User10,Client J 

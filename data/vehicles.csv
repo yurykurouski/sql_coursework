@@ -1,0 +1,21 @@
+model_name,public_id,location_lng,location_lgt,booking_status,unlock_cost,minute_cost,client_name
+Model A,ID001,40.7128,-74.0060,Free,1.00,0.50,Client A
+Model B,ID002,34.0522,-118.2437,Booked,1.50,0.75,Client B
+Model C,ID003,43.6532,-79.3832,Free,1.00,0.50,Client C
+Model D,ID004,52.5200,13.4050,In Ride,2.00,1.00,Client D
+Model E,ID005,48.8566,2.3522,Free,1.00,0.50,Client E
+Model F,ID006,-33.8688,151.2093,Booked,1.50,0.75,Client F
+Model G,ID007,19.0760,72.8777,Free,1.00,0.50,Client G
+Model H,ID008,41.9028,12.4964,In Ride,2.00,1.00,Client H
+Model I,ID009,40.4168,-3.7038,Free,1.00,0.50,Client I
+Model J,ID010,-23.5505,-46.6333,Booked,1.50,0.75,Client J
+Model K,ID011,35.6895,139.6917,Free,1.00,0.50,Client J
+Model L,ID012,55.7558,37.6173,Booked,1.50,0.75,Client I
+Model M,ID013,39.9042,116.4074,In Ride,2.00,1.00,Client H
+Model N,ID014,51.5074,-0.1278,Free,1.00,0.50,Client G
+Model O,ID015,48.1351,11.5820,Booked,1.50,0.75,Client F
+Model P,ID016,40.7306,-73.9352,In Ride,2.00,1.00,Client E
+Model Q,ID017,37.7749,-122.4194,Free,1.00,0.50,Client D
+Model R,ID018,34.0522,-118.2437,Booked,1.50,0.75,Client C
+Model S,ID019,55.9533,-3.1883,In Ride,2.00,1.00,Client B
+Model T,ID020,39.7392,-104.9903,Free,1.00,0.50,Client A
